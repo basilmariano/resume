@@ -1,0 +1,130 @@
+{
+  "Name": "Panfilo S. Mariano Jr.",
+  "Address": "Rambutan St., San Gabriel, Tuguegarao  City, Cagayan, Philippines",
+  "Email Address": "panfilomariano@gmail.com",
+  "Mobile number": "+639772549340",
+  "github": "https://github.com/basilmariano",
+  "Experiences": [
+    {
+      "company": "ClickSend",
+      "location": "Australia",
+      "position": "Senior iOS Developer",
+      "date": "2017 to Present"
+    },
+    {
+      "company": "Leapp Pte  Ltd",
+      "location": "Singapore",
+      "position": "Freelance Senior iOS Developer",
+      "date": "2016 to Present"
+    },
+    {
+      "company": "Billinear",
+      "location": "Philippines",
+      "position": "Senior iOS Developer / Consultant",
+      "date": "2015 to 2016"
+    },
+    {
+      "company": "Pace Creative Studio",
+      "location": "Philippines/Hong Kong",
+      "position": "Mobile Application Developer",
+      "date": "2012 to 2015"
+    },
+    
+  ],
+  "Skills": [
+    {
+      "Programming Languages": [
+        "Objective-c (10/10)",
+        "Swift (10/10)",
+        "C# (9/10)",
+        "Java (8/10)"
+      ]
+    },
+    {
+      "Version Control": [
+        "Git (5yrs)",
+        "SVN (6months)"
+      ]
+    },
+    {
+      "Development Frameworks": [
+        "Cocoapods",
+        "Fastlane",
+        "Fabric Crashlytics",
+        "Realm",
+        "Alamofire"
+      ]
+    },
+    {
+      "Deployments": {
+        "Release": [
+          "Fastlane",
+          "Application Loader"
+        ],
+        "Beta": [
+          "TestFlight",
+          "Fastlane",
+          "Fabric Crashlytics"
+        ]
+      }
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "ClickSend",
+      "Description": "An App that used to send business SMS marketing campaigns and communicate with you customers and staff anywhere, anytime with a variety of features like Dashboard Statistics, Sending Quick SMS/SMS Campaigns, SMS messiness etc. ",
+      "AppStore Url": " https://itunes.apple.com/us/app/clicksend/id1245465174?mt=8",
+      "Role": "Lead/Senior Developer"
+    },
+    {
+      "Name": "Direct Mail",
+      "Description": "An App that is used by ClickSends Delivery people to track their job delivery progress and history. It tracks users real time location and sync it to the server. Notifies user when accuracy is low but local notification services. Features includes background mode tracking, local notification, local cache etc.  ",
+      "AppStore Url": "https://itunes.apple.com/us/app/direct-mail/id1321800024?mt=8",
+      "Role": "Lead/Senior Developer"
+    },
+    {
+      "Name": "Toggle",
+      "Description": "A mediacorp’s app for digital entertainment services that lets you watch and download videos, watch live TV channels from Singapore, etc.   ",
+      "AppStore Url": " https://itunes.apple.com/th/app/toggle-sg/id566561555?mt=8",
+      "Role": "Freelance Developer"
+    },
+    {
+      "Name": "BERITA Mediacorp",
+      "Description": "A mediacorp’s app for News and Current Affairs that lets you stream videos add, bookmarks news in different categories. This app includes 2 languages .",
+      "AppStore Url": "https://itunes.apple.com/th/app/berita-mediacorp/id982151128?mt=8",
+      "Role": "Lead/Senior Developer"
+    },
+    {
+      "Name": "Deal Grocer - Best Deals",
+      "Description": "Deal Grocer is the exclusive provider of top-quality discounted offers from only the best merchants. It is used for searching best deals from merchants, used coupons, purchase using credit cards etc.",
+      "AppStore Url": "https://itunes.apple.com/ca/app/deal-grocer-best-deals/id1116034029?mt=8",
+      "Role": "Lead/Senior Developer"
+    },
+    {
+      "Name": "ZippyCo",
+      "Description": "An App for parcel delivery, Tracking delivery Job status, accepting parcel with signature from App. ",
+      "AppStore Url": "https://itunes.apple.com/app/zippyco-tap.-tap.-delivered./id1018150683?mt=8",
+      "Note": "AppStore URLis for Singapore only",
+      "Role": "Lead/Developer"
+    },
+    {
+      "Game Development": [
+        {
+          "Name": "WhizKitty",
+          "Description": "A simple game created using Unity3D with IAP for cats and balls  ",
+          "AppStore Url": " https://itunes.apple.com/ph/app/whiz-kitty/id1001921055?mt=8",
+          "Role": "Lead/Developer"
+        },
+        {
+          "Name": "ToysInc",
+          "Description": "A simple game created using Unity3D with IAP that creates toys from factory. A confusing but addictive game for any Ages.   ",
+          "AppStore Url": " https://itunes.apple.com/ph/app/toys-inc/id1034644879?mt=8",
+          "Role": "Lead/Developer"
+        }
+      ]
+    },
+    {
+      "PS": "And Many more iOS project from iOS6 below..."
+    }
+  ]
+}
